@@ -41,4 +41,3 @@ Started in February 2023
 
 - LinkedIn: https://www.linkedin.com/in/isley-assis-230937244/  
 - Email: isleyassis@gmail.com  
-- GitHub: https://github.com/Isleyassis  
